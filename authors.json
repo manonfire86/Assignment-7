@@ -1,0 +1,10 @@
+{"authors":[
+	{
+	"First_Name" : ["Albert","Friedrich","Stephen","Peter"],
+	"Last_Name" : ["Camus","Nietzsche","King","Straub"],
+	"Title" : ["The Stranger","On the Genealogy of Morality","The Talisman","The Talisman"],
+	"Genre" : ["Fiction","Philosophy","Fantasy","Fantasy"],
+	"Published" : [1942,1887,1984,1984],
+	"Living_Status" : ["Dead","Dead","Alive","Alive"]
+	}]
+}

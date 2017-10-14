@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<authors_assignment>
+	<author id ="1">
+		<First_Name>Albert</First_Name>
+		<Last_Name>Camus</Last_Name>
+		<Title>The Stranger</Title>
+		<Genre>Fiction</Genre>
+		<Published>1942</Published>
+		<Living_Status>Dead</Living_Status>
+	</author>
+	<author id ="2">
+		<First_Name>Friedrich</First_Name>
+		<Last_Name>Nietzsche</Last_Name>
+		<Title>On the Genealogy of Morality</Title>
+		<Genre>Philosophy</Genre>
+		<Published>1887</Published>
+		<Living_Status>Dead</Living_Status>
+	</author>
+	<author id ="3">
+		<First_Name>Stephen</First_Name>
+		<Last_Name>King</Last_Name>
+		<Title>The Talisman</Title>
+		<Genre>Fantasy</Genre>
+		<Published>1984</Published>
+		<Living_Status>Alive</Living_Status>
+	</author>
+	<author id ="4">
+		<First_Name>Peter</First_Name>
+		<Last_Name>Straub</Last_Name>
+		<Title>The Talisman</Title>
+		<Genre>Fantasy</Genre>
+		<Published>1984</Published>
+		<Living_Status>Alive</Living_Status>
+	</author>
+</authors_assignment>
